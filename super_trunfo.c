@@ -4,8 +4,6 @@ int main(){
     printf("Super Trunfo\n");
     printf(" \n");
 
-
-    
     printf("Carta 1\n");
     printf("Estado: Minas Gerais\n");
     printf("Código da carta: A01\n");
